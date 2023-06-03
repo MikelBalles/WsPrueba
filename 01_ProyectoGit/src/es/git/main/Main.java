@@ -4,7 +4,12 @@ public class Main {
 
 	public static void main(String[] args) {
 		System.out.println("Bienvenidos a Git");
-
+      int numero = 0;
+      int numero1 = 4;
+      int numero2 =5;
+      
+      System.out.println(numero1+numero2);
+       
 	}
 
 }
