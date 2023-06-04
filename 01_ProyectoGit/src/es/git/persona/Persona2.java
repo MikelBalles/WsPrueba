@@ -1,9 +1,11 @@
 package es.git.persona;
 
+import es.git.main.Persona;
+
 public class Persona2 {
 
 	
-	Persona p = new persona();
+	persona p = new persona();
 
 
 }
